@@ -1,0 +1,15 @@
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\bin\Debug\net6.0\AlperApplication.exe
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\bin\Debug\net6.0\AlperApplication.deps.json
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\bin\Debug\net6.0\AlperApplication.runtimeconfig.json
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\bin\Debug\net6.0\AlperApplication.dll
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\bin\Debug\net6.0\AlperApplication.pdb
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\obj\Debug\net6.0\AlperApplication.csproj.AssemblyReference.cache
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\obj\Debug\net6.0\AlperApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\obj\Debug\net6.0\AlperApplication.AssemblyInfoInputs.cache
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\obj\Debug\net6.0\AlperApplication.AssemblyInfo.cs
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\obj\Debug\net6.0\AlperApplication.csproj.CoreCompileInputs.cache
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\obj\Debug\net6.0\AlperApplication.dll
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\obj\Debug\net6.0\refint\AlperApplication.dll
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\obj\Debug\net6.0\AlperApplication.pdb
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\obj\Debug\net6.0\AlperApplication.genruntimeconfig.cache
+C:\Users\kutlu\OneDrive\Desktop\AlperApplication\AlperApplication\obj\Debug\net6.0\ref\AlperApplication.dll
